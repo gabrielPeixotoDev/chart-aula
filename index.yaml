@@ -3,13 +3,13 @@ entries:
   giropops-senhas:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-04-21T17:57:20.748753-03:00"
+    created: "2025-04-21T18:02:32.600247-03:00"
     description: Gerador de senhas treinamento
     digest: bd4f860b0981c4f86347fa230614e54df69bcfc463d61408d0ede033e6933403
     name: giropops-senhas
     sources:
     - https://github.com/badtuxx/giropops-senhas
     urls:
-    - https://github.com/gabrielPeixotoDev/chart-aula.git/giropops-senhas-0.1.0.tgz
+    - https://gabrielpeixotodev.github.io/chart-aula/giropops-senhas-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-21T17:57:20.748063-03:00"
+generated: "2025-04-21T18:02:32.59964-03:00"
